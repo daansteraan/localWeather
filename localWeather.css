@@ -1,0 +1,43 @@
+html {
+  min-height: 100%;
+}
+body{
+  font-family:rockwell;
+  text-align:center;
+}
+
+h1{
+  margin: 50px 0px 0px;
+  font-size: 50px;
+}
+
+form{
+  font-size: 30px;
+}
+
+#temp{
+  font-size: 120px;
+}
+#location{
+  font-style:bold; 
+  font-size: 60px;
+}
+#country{
+  font-style:bold; 
+  font-size: 80px;
+}
+#description{
+  font-style:italic;
+  font-size: 25px;
+}
+input[type='radio'] {
+    transform: scale(1.5);
+}
+footer {
+  bottom: 0;
+  position: fixed;
+  width:90%;
+}
+img {
+  height: 150px;
+}
